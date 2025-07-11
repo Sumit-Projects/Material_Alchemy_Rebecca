@@ -1,0 +1,125 @@
+﻿Subject,Treatment,Positive Score
+P001,Baseline,11
+P001,Silver,14
+P001,Placebo,17
+P001,22K Gold,14
+P002,Baseline,11
+P002,Placebo,11
+P002,22K Gold,11
+P002,Silver,11
+P003,Baseline,11
+P003,22K Gold,11
+P003,Silver,11
+P003,Placebo,11
+P004,Baseline,13
+P004,22K Gold,13
+P004,Silver,14
+P004,Placebo,11
+P005,Baseline,17
+P005,Silver,16
+P005,22K Gold,18
+P005,Placebo,15
+P006,Baseline,13
+P006,Silver,11
+P006,22K Gold,12
+P006,Placebo,11
+P007,Baseline,12
+P007,Silver,13
+P007,Placebo,12
+P007,22K Gold,12
+P008,Baseline,18
+P008,22K Gold,13
+P008,Silver,12
+P008,Placebo,12
+P009,Baseline,12
+P009,22K Gold,12
+P009,Placebo,19
+P009,Silver,14
+P010,Baseline,12
+P010,22K Gold,11
+P010,Placebo,11
+P010,Silver,11
+P011,Baseline,17
+P011,22K Gold,12
+P011,Silver,12
+P011,Placebo,11
+P012,Baseline,20
+P012,Silver,16
+P012,Placebo,12
+P012,22K Gold,11
+P013,Baseline,11
+P013,22K Gold,11
+P013,Silver,11
+P013,Placebo,11
+P014,Baseline,17
+P014,22K Gold,13
+P014,Placebo,12
+P014,Silver,12
+P015,Baseline,12
+P015,Placebo,12
+P015,22K Gold,12
+P015,Silver,11
+P016,Baseline,13
+P016,Placebo,11
+P016,22K Gold,11
+P016,Silver,11
+P017,Baseline,14
+P017,Placebo,18
+P017,22K Gold,14
+P017,Silver,15
+P018,Baseline,20
+P018,Placebo,17
+P018,Silver,20
+P018,22K Gold,15
+P019,Baseline,11
+P019,Silver,14
+P019,22K Gold,14
+P019,Placebo,13
+P020,Baseline,11
+P020,Silver,11
+P020,22K Gold,11
+P020,Placebo,11
+P021,Baseline,11
+P021,22K Gold,12
+P021,Placebo,16
+P021,Silver,15
+P022,Baseline,14
+P022,Silver,11
+P022,22K Gold,12
+P022,Placebo,11
+P023,Baseline,13
+P023,Placebo,13
+P023,22K Gold,11
+P023,Silver,13
+P024,Baseline,12
+P024,Silver,12
+P024,Placebo,13
+P024,22K Gold,14
+P025,Baseline,25
+P025,Silver,18
+P025,22K Gold,24
+P025,Placebo,30
+P026,Baseline,13
+P026,22K Gold,11
+P026,Silver,11
+P026,Placebo,11
+P027,Baseline,11
+P027,Placebo,12
+P027,Silver,13
+P027,22K Gold,17
+P028,Baseline,12
+P028,22K Gold,12
+P028,Placebo,13
+P028,Silver,12
+P029,Baseline,14
+P029,Placebo,13
+P029,Silver,14
+P029,22K Gold,14
+P030,Baseline,11
+P030,22K Gold,11
+P030,Placebo,11
+P030,Silver,11
+P031,Baseline,19
+P031,Silver,15
+P031,Placebo,12
+P031,22K Gold,12
